@@ -1,40 +1,15 @@
 # Core dependencies
-gradio>=4.0.0
-openai>=1.0.0
-pandas>=1.5.0
-numpy>=1.21.0
+gradio==4.19.2
+openai==1.12.0
+pandas==2.0.3
+numpy==1.24.3
 
 # Visualization
-plotly>=5.0.0
-matplotlib>=3.5.0
-seaborn>=0.11.0
-
-# Audio/Video processing
-openai-whisper>=20230314  # ИЗМЕНЕНО: вместо whisper-openai
-moviepy>=1.0.3
-librosa>=0.9.0
-soundfile>=0.12.0
-
-# Text processing
-nltk>=3.8
-spacy>=3.4.0
-transformers>=4.20.0
-sentence-transformers>=2.2.0
-
-# Data handling
-pydantic>=1.10.0
-python-dotenv>=0.19.0
-PyYAML>=6.0
-
-# PDF generation
-reportlab>=3.6.0
-fpdf2>=2.5.0
-# weasyprint>=57.0  # ЗАКОММЕНТИРОВАНО: сложные зависимости для HF Space
+plotly==5.18.0
+matplotlib==3.7.2
 
 # Utilities
-python-dateutil>=2.8.0
-requests>=2.28.0
-tqdm>=4.64.0
+python-dotenv==1.0.0
 
 # Optional: For advanced features
 scikit-learn>=1.1.0
