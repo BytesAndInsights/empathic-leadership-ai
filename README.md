@@ -44,7 +44,7 @@ Built on extensive research in:
 
 ## Repository
 
-Full source code and documentation available at: [GitHub Repository](https://github.com/your-username/empathic-leadership-ai)
+Full source code and documentation available at: [GitHub Repository](https://github.com/BytesAndInsights/empathic-leadership-ai)
 
 ## License
 
