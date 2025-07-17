@@ -1,0 +1,21 @@
+{
+  "transformational": {
+    "components": [
+      "Idealized Influence",
+      "Inspirational Motivation",
+      "Intellectual Stimulation",
+      "Individualized Consideration"
+    ],
+    "description": "Leadership that inspires followers to transcend self-interest"
+  },
+  "emotional_intelligence": {
+    "components": [
+      "Self-Awareness",
+      "Self-Regulation",
+      "Motivation",
+      "Empathy",
+      "Social Skills"
+    ],
+    "description": "Ability to understand and manage emotions effectively"
+  }
+}
